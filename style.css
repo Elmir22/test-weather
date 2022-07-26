@@ -1,5 +1,21 @@
 body {
-  font-family: 'Dosis', sans-serif;
+  font-family: "Dosis", sans-serif;
   font-weight: 500;
 }
-/*# sourceMappingURL=style.css.map */
+body .imgbox {
+  overflow: hidden;
+}
+body .imgbox img {
+  width: 100%;
+}
+
+section {
+  padding: 60px 0;
+}
+
+#testweather .box {
+  background-color: rgba(32, 158, 64, 0.3843137255);
+  width: 30%;
+  height: 40vh;
+  margin: 50px 0;
+}/*# sourceMappingURL=style.css.map */
